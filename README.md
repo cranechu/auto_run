@@ -7,11 +7,13 @@ Usage:
 3. pip install opencv-python
 4. prepare target and action pictures in "cuts" folder
 5. use action filename as the actions:
+```
    - @ mouse
    - # keyboard
    - #..#.. hot key
    - $ parameter
    - % command: screen capture, end, ...
    - = split step name and step operations
+```
 
 Find more information on pyautogui: https://pyautogui.readthedocs.io/en/latest/
